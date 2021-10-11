@@ -2,6 +2,8 @@ MIT License
 
 Copyright (c) 2021 Yiwu Zhong
 
+This repository was built based on Scene-Graph-Benchmark(https://github.com/KaihuaTang/Scene-Graph-Benchmark.pytorch) for scene graph generation and UNITER(https://github.com/ChenRocks/UNITER) for image-text representation learning.
+
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
