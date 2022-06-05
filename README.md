@@ -55,6 +55,8 @@ Explanation of metrics in this toolkit are given in [METRICS.md](METRICS.md)
 
 In this project, we primarily use the detector Faster RCNN pretrained on Open Images dataset. To use this repo, you don't need to run this detector. You can directly download the extracted detection features, as the instruction in [DATASET.md](DATASET.md). If you're interested in this detector, the pretrained model can be found in [TensorFlow 1 Detection Model Zoo: faster_rcnn_inception_resnet_v2_atrous_oidv4](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf1_detection_zoo.md#open-images-trained-models). 
 
+**Update**: The script used to extract region features (TensorFlow 1 Detection Model) is uploaded in [preprocess/README.md](https://github.com/YiwuZhong/SGG_from_NLS/preprocess).
+
 Additionally, to compare with previous fully supervised models, we also use the detector pretrained by [Scene-Graph-Benchmark](https://github.com/KaihuaTang/Scene-Graph-Benchmark.pytorch#pretrained-models). You can download this [Faster R-CNN model](https://onedrive.live.com/embed?cid=22376FFAD72C4B64&resid=22376FFAD72C4B64%21779870&authkey=AH5CPVb9g5E67iQ) and extract all the files to the directory `checkpoints/pretrained_faster_rcnn`.
 
 ## Pretrained Scene Graph Generation Models
