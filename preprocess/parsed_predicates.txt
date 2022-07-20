@@ -1,0 +1,975 @@
+on,895212
+of,759013
+in,482699
+with,222525
+wear,192114
+have,95775
+near,85462
+hold,49613
+behind,41924
+be,41217
+at,38921
+sit on,30650
+to,26519
+on the side,24376
+under,23659
+for,22210
+on top,21939
+from,19444
+in front,19125
+over,15361
+above,15117
+on side,12879
+ride,12361
+cover,11302
+play,10517
+walk on,9955
+hang on,9730
+sit in,8934
+along,8915
+against,8077
+carry,8051
+lay on,7050
+watch,6539
+between,6406
+eat,6394
+down,6139
+through,5224
+across,4813
+into,4420
+take,4225
+full of,3756
+do,2902
+cross,2504
+during,2477
+swinge,2363
+grow on,2265
+color,2232
+use,2222
+outside,2219
+fly,2212
+face,2090
+without,2000
+pull,1953
+hit,1911
+surround,1906
+lean on,1897
+line,1830
+show,1798
+back of,1797
+make,1793
+off,1788
+shape,1767
+leave,1731
+like,1730
+ride on,1708
+throw,1708
+stand by,1697
+beneath,1676
+hang over,1551
+underneath,1467
+touch,1452
+drive,1447
+cut,1381
+enjoy,1372
+towards,1365
+frame,1221
+read,1210
+support,1164
+reflect,1159
+contain,1139
+as,1084
+catch,1050
+come from,1033
+write in,1013
+outside of,1007
+say,1003
+walk,982
+toward,939
+cast,932
+sleep on,920
+lead to,904
+push,902
+beyond,902
+play with,877
+away from,875
+go down,869
+run on,851
+look to,827
+onto,822
+run in,791
+surf,783
+make for,742
+stop,735
+alongside,725
+atop,724
+drink,716
+perform,690
+pink,666
+jump in,662
+close to,654
+brush,634
+spot,604
+mount,599
+feed,587
+hold onto,571
+tile,556
+look for,547
+among,537
+ski,536
+kick,532
+work on,526
+stripe,515
+sit with,514
+indicate,500
+look in,488
+look out,486
+bear with,482
+pave,480
+up,475
+paint,474
+draw on,473
+overlook,471
+give,460
+mark,458
+separate,451
+put,448
+serve,436
+stuff,433
+play on,431
+see through,425
+sit by,424
+stick,421
+fill,420
+get,419
+bear on,413
+leave on,405
+wait on,392
+cut in,387
+pick,376
+keep in,376
+display,372
+past,370
+connect,356
+sit,351
+come off,341
+sleeve,339
+come through,337
+keep,337
+hang,336
+look,333
+pet,333
+handle,329
+after,325
+come down,325
+park,323
+form,319
+turn,317
+lead,309
+tof,305
+point,297
+about,293
+run through,292
+wait in,291
+fold,290
+follow,289
+open,284
+go,282
+look into,282
+block,277
+tie,273
+run down,272
+stand,272
+border,268
+set in,266
+enter,266
+miss,263
+lick,258
+make with,256
+decorate,250
+sniff,249
+jump on,247
+attach,244
+pour,241
+link,241
+take in,240
+sell,238
+approach,238
+within,236
+meet,235
+grip,233
+fo,233
+look over,231
+cook,231
+walk up,230
+light,228
+divide,227
+prepare,222
+blow,220
+go into,216
+board,215
+eat in,214
+rest,213
+protect,212
+get on,210
+move on,208
+go through,203
+show through,203
+pattern,202
+grow from,201
+run across,200
+before,199
+check,199
+next,195
+sit around,194
+climb,193
+observe,193
+close,191
+show in,191
+turn to,190
+extend,190
+grab,190
+top,188
+flip,188
+pitch,187
+lift,186
+enclose,184
+raise,182
+brown,182
+jump,182
+pass,179
+bite,171
+roll,169
+tie in,167
+wrap,166
+go up,165
+feature,165
+move,161
+illuminate,161
+help,161
+wash,160
+create,158
+shake,157
+run with,156
+fix,154
+slice,153
+stop in,153
+chase,153
+provide,151
+run,150
+row,149
+fall in,148
+snowboard,148
+flush,147
+secure,147
+stand around,146
+walk into,142
+hug,141
+go over,141
+spray,141
+go across,140
+stick to,139
+grasp,139
+panel,137
+sized,137
+bend,137
+out,136
+sleeved,135
+see,133
+shade,130
+fall off,130
+thru,129
+come to,129
+trim,128
+frost,128
+swing,126
+come into,125
+draw,124
+lay,124
+besides,123
+run to,122
+resemble,122
+pull on,117
+feed on,116
+share,114
+control,114
+peel,113
+high in,113
+smell,112
+sign on,112
+steer,112
+wade in,111
+outside in,111
+amid,111
+operate,110
+smoke,109
+reach,108
+design,106
+dry,106
+drag,105
+grow,105
+wave,105
+roll on,104
+go in,103
+direct,102
+own,101
+spell,100
+bring,99
+curved,99
+amongst,99
+clean,99
+exit,98
+load,98
+tell,97
+adjust,96
+chew on,96
+splash,95
+lean,94
+bear,94
+scratch,93
+dot,92
+head,91
+film,90
+pass through,90
+hide,89
+round,89
+come in,89
+skateboard,89
+slide,88
+haired,88
+match,87
+toss,87
+advertise,85
+carre,85
+depict,84
+bend over,84
+tow,83
+kiss,83
+lift off,83
+whit,82
+roll in,81
+across from,81
+lose,81
+guide,81
+plate,80
+hang around,80
+stretch,79
+open on,78
+werae,78
+represent,78
+hand on,78
+visible in,77
+place,77
+set,76
+hold on,76
+checker,75
+than,75
+draw in,75
+focus on,75
+clutch,74
+teach,74
+go around,74
+paddle,73
+buy,73
+@,73
+hand,72
+fly at,71
+stir,71
+haul,71
+ahead of,71
+arch,70
+spread,69
+herd,69
+finish,68
+off in,68
+build,67
+await,67
+upon,66
+chop,66
+love,66
+work,65
+go for,65
+graze,65
+practice,65
+put on,64
+milk,64
+sign,64
+litter,64
+race,64
+pad,63
+view,63
+seperate,63
+go under,63
+wait,63
+celebrate,63
+throughout,62
+state,62
+outside on,62
+pay,61
+turn on,61
+include,61
+back to,60
+beside of,60
+tuck into,59
+fall into,58
+collar,58
+overhang,58
+'s,58
+amidst,58
+close on,58
+call,58
+o,57
+wet,57
+shield,57
+come,57
+guard,57
+photograph,57
+rail,56
+mix,56
+chip,56
+ready for,56
+lap,55
+chew,55
+clap,55
+pass by,54
+run over,54
+visible on,54
+need,53
+inspect,53
+cord,52
+change,52
+shoot,52
+break in,52
+outline,52
+get off,52
+write,52
+strike,52
+press,52
+down on,51
+obscure,51
+balance,51
+keep on,51
+melt,51
+th,50
+transport,50
+record,50
+rub,50
+order,49
+make into,49
+skate,49
+stain,48
+nearest,48
+allow,48
+windshield,48
+slat,48
+bounce,48
+adjacent to,47
+bake,46
+next in,46
+travel,46
+wrinkle,46
+coat,46
+strip,45
+next on,45
+near to,45
+identify,45
+release,45
+span,44
+arm,44
+print,44
+behe,44
+attend,44
+rid,44
+rim,44
+fly into,44
+rock,43
+suggest,43
+inbetween,43
+though,43
+burn,43
+fall over,42
+ware,42
+cushion,41
+back on,41
+curl,41
+up to,40
+front,40
+recess,40
+carry on,40
+break,40
+let in,39
+examine,39
+let,39
+fade,39
+hind,39
+white,39
+feel,38
+hang onto,38
+weae,38
+play at,38
+stack,38
+hooded,38
+rust,38
+theme,38
+return,38
+come out,38
+hang with,37
+high on,37
+visit,36
+cause,36
+signal,36
+run into,36
+gon,36
+pass on,36
+describe,36
+eatte,36
+decorative,35
+retain,35
+wire,35
+comb,35
+admire,35
+shine,35
+flap,35
+sink,34
+go on,34
+style,34
+clasp,34
+speckle,34
+designate,34
+far from,34
+stand for,34
+pan,34
+claim,34
+adorn,34
+get into,33
+tuck in,33
+down in,33
+outside with,33
+shear,33
+eyed,33
+take on,33
+kite,33
+shingle,32
+plug in,32
+knit,32
+smile,32
+open to,32
+roam,32
+dome,32
+cow,32
+wipe,32
+offer,32
+lock,31
+denote,31
+visible through,31
+talk into,31
+dig into,31
+hole,31
+powder,31
+witn,31
+deliver,30
+run up,30
+look on,30
+plaid,30
+win,30
+run for,30
+shave,30
+full with,30
+grow to,30
+produce,30
+grain,29
+turn into,29
+tint,29
+per,29
+grow up,29
+arrange,29
+pull to,29
+grill,29
+tail,29
+pof,29
+back from,28
+pin on,28
+swim,28
+back,28
+back in,28
+hike,28
+opposite,28
+remove,28
+lie,28
+pack,28
+cruise,28
+drop,28
+s,28
+power,27
+switch,27
+get in,27
+trail,27
+texture,27
+add,27
+carye,27
+dig in,27
+ear,27
+watch over,27
+spend,27
+hold with,27
+explain,26
+close in,26
+bricke,26
+pop,26
+up in,26
+prop,26
+eare,26
+repair,26
+strap to,26
+wade through,26
+carve,26
+dress,26
+out in,26
+mean,26
+dust,26
+upholstered,25
+carpet,25
+receive,25
+stare,25
+braid,25
+send,25
+wag,25
+name,25
+train,25
+flower,24
+eware,24
+encase,24
+flavor,24
+wait behind,24
+plow,24
+start,24
+circle,24
+shower,24
+obey,24
+corrugate,23
+suspend,23
+web,23
+edge,23
+label,23
+sink in,23
+post,23
+warn,23
+grind on,23
+poke,23
+due,23
+spoke,23
+decal on,22
+end in,22
+charge,22
+juggle,22
+fly around,22
+waere,22
+go after,22
+because,22
+para,22
+outstretche,22
+want,22
+agianst,21
+back with,21
+escape,21
+define,21
+leafed,21
+pack in,21
+square,21
+pump,21
+reveal,21
+dip in,21
+shut,21
+nuzzle,21
+fill in,21
+straddle,20
+lack,20
+regard,20
+wet from,20
+anchor,20
+os,20
+find,20
+come up,20
+fry,20
+break through,20
+live in,20
+visible under,20
+grind,20
+visible behind,20
+fly by,20
+investigate,19
+dig,19
+go towards,19
+crack,19
+squint,19
+full on,19
+head for,19
+beat,19
+shelter,19
+unload,19
+scoop,19
+sprinkle,19
+hold over,19
+letter,19
+away in,19
+wearng,18
+step,18
+drip,18
+thatch,18
+prevent,18
+lower,18
+tack on,18
+boarder,18
+tilt,18
+black,18
+feeding,18
+taste,18
+suck,18
+garnish,18
+dip,18
+die,17
+dump,17
+save,17
+tall than,17
+rise,17
+shoulder,17
+walk off,17
+list,17
+signify,17
+sponsor,17
+announce,17
+hodle,17
+next with,17
+iof,17
+fasten,17
+sweep,17
+crash,17
+obstruct,17
+navigate,17
+care,17
+groom,17
+swe,17
+gof,17
+angle,16
+fence,16
+come over,16
+drive by,16
+grate,16
+sport,16
+od,16
+shovel,16
+snap,16
+dribble,16
+button,16
+again,16
+get onto,16
+via,16
+twist,16
+chocolate,16
+pickle,16
+out on,16
+pat,16
+accompany,16
+grace,15
+drape,15
+attempt,15
+side,15
+hunt,15
+perk,15
+layer,15
+asphalt,15
+bathe,15
+join,15
+marble,15
+glove,15
+visible over,15
+sip,15
+pull over,15
+pull in,15
+skin,15
+appear,15
+blur,15
+tip,15
+encircle,15
+generate,15
+backwards,15
+oversee,15
+complete,15
+sheer,15
+pitch in,15
+pilot,14
+quilted,14
+scallop,14
+flank,14
+abut,14
+occupy,14
+shirt,14
+ripple,14
+track,14
+logo,14
+womens,14
+other than,14
+zip,14
+pass over,14
+wii,14
+plug,14
+pile,14
+multicolore,14
+ruffle,14
+bat,14
+lie with,14
+luggage,14
+fire,14
+asleep in,14
+come on,14
+woode,14
+seat,14
+ice,14
+collect,14
+soak,14
+peck,14
+ske,14
+align,13
+plant,13
+turn in,13
+expose,13
+recline,13
+promote,13
+sit over,13
+churn,13
+cradle,13
+outside near,13
+weather,13
+lace,13
+mope,13
+tone,13
+bound,13
+highlight,13
+weigh,13
+engrave,13
+crest,13
+tag,13
+light up,13
+descend,13
+low to,13
+ignore,13
+up against,13
+steal,13
+pose,13
+test,13
+bounce off,13
+stem,13
+squeeze,13
+discuss,13
+en,13
+rip,12
+feather,12
+grow into,12
+sauce,12
+white with,12
+scatter,12
+if,12
+spew,12
+upright in,12
+tend,12
+wearign,12
+title,12
+shred,12
+stock,12
+right,12
+off to,12
+crane,12
+clear,12
+fetch,12
+spectate,12
+talk,12
+wade into,12
+pierce,12
+bleach,12
+focus,12
+study,12
+hand in,12
+overhead,12
+swine,12
+peck at,12
+stud,12
+roast,12
+try on,12
+flash,11
+brand,11
+blond,11
+fall,11
+go by,11
+sail,11
+aim at,11
+pf,11
+withe,11
+windowe,11
+dye,11
+crush,11
+bead,11
+stop behind,11
+present,11
+pedal,11
+glow,11
+fit,11
+drill into,11
+thumb,11
+apply,11
+alight,11
+wing,11
+cake,11
+select,11
+second from,11
+aim,11
+mess with,11
+coach,11
+assist,11
+strew,11
+flow,11
+ring,11
+oven on,11
+ribbon,11
+put in,11
+teal,11
+asleep on,11
+salad,11
+attack,11
+atop of,11
+reserve,11
+dash,10
+weave,10
+back at,10
+capture,10
+flood,10
+iwth,10
+eon,10
+bow,10
+ot,10
+beind,10
+toast,10
+saddle,10
+conduct,10
+aboard,10
+search,10
+monitor,10
+colour,10
+witha,10
+dominate,9
+inspire,9
+pin,9
+hear,9
+wind,9
+peak,9
+dapple,9
+whip,9
+gather,8
+tape,8
+end,8
+peek,8
+ison,8
+ridge,8
+split,8
+express,7
+throught,6
+slope,6
