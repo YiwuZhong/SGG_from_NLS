@@ -17,3 +17,7 @@ After downloading the above files, you should have following hierarchy in folder
 └── VG-SGG-with-attri.h5
 ```
 
+### Preprocessing scripts
+
+We provide scripts for data preprocessing, such as extracting the detection results from images and creating pseudo labels based on detection results and parsed concepts from image captions. More detail can be found in the [folder preprocess](https://github.com/YiwuZhong/SGG_from_NLS/tree/main/preprocess).
+

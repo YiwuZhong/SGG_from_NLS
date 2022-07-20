@@ -1,6 +1,6 @@
 # Scripts for data preprocessing
 
-This section is under construction. The following information is provided for the researchers who requested it.
+This section is under construction. The following information is provided for the researchers who are interested in the preprocessing.
 
 ## Region feature extraction
 
@@ -12,7 +12,7 @@ For more information, please refer to [Tensorflow 1 Detection tutorial](https://
 
 ## Pseudo label creation
 
-We provide the functions for pseudo label creation. The users can use these functions as a reference as needed.
+We provide the key functions for pseudo label creation. The users can use these functions as references as needed.
 
 We used [SceneGraphParser](https://github.com/vacancy/SceneGraphParser) to parse nouns and predicates from image captions. This parser is based on Spacy library and manually-designed parsing rules.
 
