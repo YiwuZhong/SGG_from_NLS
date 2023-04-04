@@ -14,7 +14,7 @@ For more information, please refer to [Tensorflow 1 Detection tutorial](https://
 
 We provide the key functions for pseudo label creation. The users can use these functions as references as needed.
 
-We used [SceneGraphParser](https://github.com/vacancy/SceneGraphParser) to parse nouns and predicates from image captions. This parser is based on Spacy library and manually-designed parsing rules.
+`parse_captions.py`: We used [SceneGraphParser](https://github.com/vacancy/SceneGraphParser) to parse nouns and predicates from image captions. This parser is based on Spacy library and manually-designed parsing rules. We provide the code as a reference.
 
 `link_det_cap.py`: Given the detection labels (e.g., `objects_oidv4_vocab.txt`) and the parsed nouns from captions (e.g., `parsed_nouns.txt`), this file tries to link each detected category into one of the parsed nouns using WordNet, thereby creating pseudo label for training.
 
